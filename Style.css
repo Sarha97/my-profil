@@ -1,0 +1,65 @@
+body{
+  .background: {
+ <div style="background-image: url('image/marblegold.jpg');">
+opacity: 0.5;
+height: 100%
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+color: green;
+ font-family: roboto
+  font-size:40px;
+  line-height:1.6;
+
+
+
+}
+h1{
+ color:indigo
+
+
+ ;
+ font-size: 40px;
+}
+a{
+  text-decoration: none;
+  color: indigo;
+  font-family: roboto;
+  font-size: 20px
+
+
+}
+p{
+  text-justify: center;
+}
+h2{
+  color: indigo;
+}
+h3{
+  color: indigo;
+}
+a:hover {
+  color: yellow
+
+}
+
+
+
+
+div{
+
+  background:#c9ffe5;
+  border: 2px indigo solid border;
+  margin: 10px
+
+
+}
+
+.img-round{
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px indigo;
+  border: 5px solid #c9ffe5;
+}
